@@ -1,0 +1,12 @@
+build:
+  version: 3.0
+
+accounts:
+  message: "welcome to bank accounts related APIs"
+  contactDetails:
+    name: "Rahul Raghavendra R V"
+    email: "Rahul@gmail.com"
+  onCallSupport:
+    - 9964909000
+    - 7411787905
+
