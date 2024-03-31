@@ -2,7 +2,7 @@ build:
   version: 2.0
 
 accounts:
-  message: "welcome to bank accounts related QA APIs"
+  message: "welcome to bank accounts related Test APIs"
   contactDetails:
     name: "Asha"
     email: "{cipher}552b92e54d58e124d9437303983f1759c9aee1f9b9e8a3dcdde34341645f4498"
