@@ -5,7 +5,7 @@ accounts:
   message: "welcome to bank accounts related QA APIs"
   contactDetails:
     name: "Asha"
-    email: "{cipher} a52e2c3a1f7926cb6c3c46c52fbf49f858a44716dd6c9a77c6907e7af5b159e8"
+    email: "Asha@gmail.com"
   onCallSupport:
     - (666) 265-3765
     - (666) 265-3764
